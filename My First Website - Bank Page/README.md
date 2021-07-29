@@ -1,2 +1,2 @@
 # Bank Page
-Shares you my first website built using HTML + Bootstrap
+I'm sharing with you my first website built using HTML + Bootstrap
